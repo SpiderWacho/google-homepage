@@ -1,0 +1,44 @@
+#navbar {
+    height: 3%;
+    width: 100wv;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.navbar-links{
+    display: block;
+    margin: 5px;
+    text-decoration: none;
+    color: rgba(0,0,0,0.87);
+    font-size: 13px;
+    font-family: Roboto,RobotoDraft,Arial,sans-serif;
+}
+
+#img-apps{
+    position: relative;
+    margin: 15px;   
+
+}
+
+#login {
+    display: block;
+    position: relative;
+    top: 7px;
+    margin: 5px;
+}
+#main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#google-logo {
+    
+}
+
+
+a:visited { text-decoration: none; color:rgba(0,0,0,0.87); }
+a:hover { text-decoration: underline; color:rgba(0,0,0,0.87); }
+a:focus { text-decoration: none; color:rgba(0,0,0,0.87); }
+a:hover, a:active { text-decoration: none; color:rgba(0,0,0,0.87); }
